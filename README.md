@@ -29,8 +29,10 @@
 
 ### 📊 Mis Estadísticas en GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EduardTrave&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardTrave&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=EduardTrave&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Eduard's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardTrave&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Langs" />
+  </p>
 </div>
 
 <br/>
