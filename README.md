@@ -12,7 +12,7 @@
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajando en mi **Portafolio Web y proyectos de IoT (Pukyu)**.
 - 🌱 Profundizando en **Arquitectura de Software** y **Soluciones Cloud**.
-- 💼 Experiencia práctica en **Alignet** y **Hospital Nacional 2 de Mayo**.
+- 💼 Experiencia práctica en **Alignet**.
 - ⚡ **Enfoque:** Crear software escalable, limpio y eficiente.
 - ☕ **Fun fact:** Me encanta optimizar código tanto como tomar café.
 
@@ -34,13 +34,10 @@ Organizo mis herramientas por áreas de dominio para mantener el código limpio 
 ### 📫 Conectemos
 <div align="center"> 
   <a href="https://linkedin.com/in/eduard-gedeon-travezaño-patiño-b212152a8" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-eduard.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portafolio_Web-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" target="_blank" />
-  </a>
-  <a href="mailto:ranapythonC@outlook.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  <a href="https://duard.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio_Web-10B981?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
 
