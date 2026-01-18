@@ -12,7 +12,7 @@
 ### 🚀 Sobre mí
 - 🔭 Actualmente trabajando en mi **Portafolio Web y proyectos de IoT**.
 - 🌱 Aprendiendo **Arquitectura de Software y Cloud Computing**.
-- 💼 Experiencia en **Alignet** y **Hospital Nacional 2 de Mayo**.
+- 💼 Experiencia en **Alignet**.
 - ⚡ **Fun fact:** Me encanta optimizar código tanto como tomar café.
 
 ### 🛠️ Tech Stack
@@ -29,9 +29,12 @@
 
 ### 📊 Mis Estadísticas en GitHub
 
-![Estadísticas de Eduard](https://github-readme-stats.vercel.app/api?username=EduardTrave&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Lenguajes Top](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardTrave&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EduardTrave&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardTrave&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</div>
 
 <br/>
 
