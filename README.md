@@ -28,7 +28,6 @@
 <br/>
 
 ### 📊 Mis Estadísticas en GitHub
-### 📊 Mis Estadísticas en GitHub
 
 ![Estadísticas de Eduard](https://github-readme-stats.vercel.app/api?username=EduardTrave&show_icons=true&theme=tokyonight&hide_border=true)
 
